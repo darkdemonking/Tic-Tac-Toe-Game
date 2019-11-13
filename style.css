@@ -1,0 +1,82 @@
+body {
+  background-color: #002;
+  font: normal 300 10pt/18pt 'Sintony';
+  margin: 0 auto;
+  max-width: 100%;
+  width: 500px;
+}
+
+h1 {
+  background-color: #029;
+  height: 40px;
+  width: 500px;
+  color: white;
+  font-size: 35px;
+  text-align: center;
+  margin-left: 0px;
+  padding-top: 15px;
+  border-radius: 3px;
+}
+
+#p1 {
+	color: #fff;
+	left: 10px;
+	position: absolute;
+}
+
+#p2 {
+	color: #fff;
+	left: 150px;
+	position: absolute;
+	border-left: 1px solid #fff;
+	padding-left: 100px;
+}
+
+button {
+  border: 5px;
+  height: 150px;
+  width: 150px;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #000;
+  border-radius: 5px;
+  border: 1px solid blue;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+button:hover {
+  background-color: blue;
+  border-color: #0f1;
+  cursor: pointer;
+}
+
+#playButton {
+  width: 470px;
+  height: 50px;
+  margin: center;
+  font-size: 20px
+}
+
+h3 {
+  color: white;
+  font-size: 25px;
+}
+
+select {
+  height: 30px;
+  width: 200px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+div {
+  color: white;
+  font-size: 18px;
+  background-color: ff3;
+  float: right;
+  margin-top: 50px;
+}
